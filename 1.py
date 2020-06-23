@@ -7,7 +7,7 @@ Created on Mon May 25 10:50:24 2020
 m = eval(input('qwe'))
 n = eval(input('zxc'))
 
-list1 = list(range(1,m+1))
+list1 = list(range(1,m+1)) 
 count =0 
 total = 0
 save =[]
