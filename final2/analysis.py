@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 # first of all we want to get the date of total 
 # commit, and make a chart for it
 
-date_count = get_data.get_log("date_log.csv")
+date_count = get_data.get_log("date_log.csv")#use get method to get the data
 count = list(date_count.values())
 date = list(date_count.keys())
 print(count)
