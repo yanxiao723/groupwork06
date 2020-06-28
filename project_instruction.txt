@@ -1,0 +1,6 @@
+As you can see, there are two project in our team.
+This is because we get wrong with our row data.
+
+the first project uses the data that collected from an ocean observatory in Australia.
+
+the second project uses the data that collected from git log of linux-stable.
